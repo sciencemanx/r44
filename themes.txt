@@ -1,0 +1,6 @@
+- https://jekyll.github.io/minima/
+- https://github.com/poole/hyde
+- https://chirpy.cotes.page/about/
+- https://github.com/alshedivat/al-folio
+- https://github.com/Huxpro/huxpro.github.io
+- https://github.com/topics/jekyll-theme
